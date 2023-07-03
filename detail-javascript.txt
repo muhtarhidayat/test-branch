@@ -1,0 +1,8 @@
+Rencana Detail Belajar Javascript.
+
+  - Dasar
+  - DOM
+  - Lanjutan
+  - Framework
+  - Buat Web full menggunakan javascript.
+  
