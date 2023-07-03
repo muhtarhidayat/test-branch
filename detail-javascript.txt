@@ -1,0 +1,11 @@
+Rencana Detail Belajar Javascript.
+
+  - Dasar
+  - DOM
+  - Lanjutan
+  - Framework
+    * React Js
+    * Next Js
+  - Buat Website Portofolio full menggunakan javascript.
+   
+  
