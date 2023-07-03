@@ -4,5 +4,8 @@ Rencana Detail Belajar Javascript.
   - DOM
   - Lanjutan
   - Framework
-  - Buat Web full menggunakan javascript.
+    * React Js
+    * Next Js
+  - Buat Website Portofolio full menggunakan javascript.
+   
   
